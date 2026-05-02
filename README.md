@@ -18,3 +18,22 @@ II. Technical Specifications
 ​Vascular Pillar Toolpathing: Optimizing the 3D-print for maximum aeroponic surface area.
 ​Sovereign OS Chemical Library: Expanding the spectroscopic database for forensic detection.
 ​Woven Polymer Stress Analysis: Engineering the ETFE basalt-mesh for 100-year snow loads.
+---
+
+## 🏛️ Commercial Inquiries & Strategic Partnerships
+
+While this repository is licensed under the **GNU GPL v3.0** to ensure the free dissemination of knowledge and technical resilience, we recognize the specific requirements of enterprise-scale aviation, logistics, and infrastructure.
+
+**Project Kinetic offers a Dual-Licensing Pathway:**
+* **Sovereign Path (GPL v3.0):** Ideal for open-source development, academic research, and community resilience.
+* **Enterprise Path (Custom):** For organizations requiring proprietary integration, specialized indemnification, or "Clean-Room" implementation without the "copyleft" requirements of the GPL.
+
+**We are currently seeking partners for:**
+1.  **Ground-Fleet Pilot Programs:** Proving "Kinetic Skin" and "Cryo-Cage" tech on non-flight logistics vehicles.
+2.  **Aviation Technical Audits:** Facilitating "Sovereign-to-Systems" handshakes for fleet modernization.
+3.  **Collaborative R&D:** Customizing the Basalt-Polymer logic for specific airframe requirements.
+
+**Direct Inquiry:** [pkinetic4@gmail.com](mailto:pkinetic4@gmail.com)
+*Subject Line: Commercial Partnership Inquiry - project Kinetic 
+
+---
