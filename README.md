@@ -1,5 +1,7 @@
+## Current Design (Revision 2.0)
+## Archive: Revision 1 (Draft Specs)
 
-# Project Kinetic: Sovereign-Hearth (Biosphere Vault)
+# Project Kinetic: Sovereign-Hearth (agricultural Vault)
 
 ## System Revision 2.0 (Integrated External Waste & Hybrid Energy Node)
 
