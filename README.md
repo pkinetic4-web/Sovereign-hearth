@@ -37,3 +37,15 @@ While this repository is licensed under the **GNU GPL v3.0** to ensure the free 
 *Subject Line: Commercial Partnership Inquiry - project Kinetic 
 
 ---
+```mermaid
+graph TD
+    A[External Sewers / Septic] -->|Raw Input| B(Anaerobic Digester)
+    B -->|Methane Gas| C(Cone Condensation Tank)
+    C -->|Clean Biogas| D(10kW Biogas Generator)
+    D -->|Electricity| E(Citadel Electrical Bus)
+    B -->|Slurry Effluent| F(Solid Settling Tank)
+    F -->|Liquid Only| G(Inline UV-C Tunnel)
+    G -->|Sanitized Nutrients| H[Citadel Cistern Core]
+    H -->|Aeroponic Loop| I[Vertical Crop Shelves]
+    E -->|Continuous Power| I
+```
