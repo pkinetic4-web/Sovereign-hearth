@@ -1,3 +1,6 @@
+some specs are staying others are located in REVISION 1
+
+
 II. Technical Specifications
 ​Geometry: 40ft Diameter Octagon / 15ft Depth (10ft sub-grade).
 ​Shell: 3D-Printed NNF-Doped Geopolymer (Seismic Grade).
