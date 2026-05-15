@@ -146,18 +146,8 @@ While this repository is licensed under the **GNU GPL v3.0** to ensure the free 
 3.  **Collaborative R&D:** Customizing the Basalt-Polymer logic for specific airframe requirements.
 
 **Direct Inquiry:** [pkinetic4@gmail.com](mailto:pkinetic4@gmail.com)
-*Subject Line: Commercial Partnership Inquiry - project Kinetic 
+*Subject Line: Commercial Partnership Inquiry - project Kinetic
 
----
-```mermaid
-graph TD
-    A[External Sewers / Septic] -->|Raw Input| B(Anaerobic Digester)
-    B -->|Methane Gas| C(Cone Condensation Tank)
-    C -->|Clean Biogas| D(10kW Biogas Generator)
-    D -->|Electricity| E(Citadel Electrical Bus)
-    B -->|Slurry Effluent| F(Solid Settling Tank)
-    F -->|Liquid Only| G(Inline UV-C Tunnel)
-    G -->|Sanitized Nutrients| H[Citadel Cistern Core]
-    H -->|Aeroponic Loop| I[Vertical Crop Shelves]
-    E -->|Continuous Power| I
-```
+
+
+%%MAGIT_PARSER_PROTECT%%  mermaid graph TD A[Above Grade: 10ft] -->|30ft Concave Glass Ceiling| B[Floor 2: Ground Level] B -->|Natural Light / Polycarbonate Tubes| C[Floor 1: Middle Level] C -->|Isolated Structural Slab| D[Subfloor: Bottom Level] D -->|Monolithic Tie-In| E[12-Inch Foundation Anchor] E -->|Rests On| F[Compacted Gravel Bed] %%MAGIT_PARSER_PROTECT%% 
