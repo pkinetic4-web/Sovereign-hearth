@@ -1,3 +1,6 @@
+<img width="704" height="1527" alt="968" src="https://github.com/user-attachments/assets/e62dc3c2-fe3d-435c-9cd0-72dcaeae1078" />
+
+
 ## Current Design (Revision 2.0)
 ## Archive: Revision 1 (Draft Specs)
 
