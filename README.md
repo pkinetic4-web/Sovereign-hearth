@@ -1,4 +1,4 @@
-some specs are staying others are located in REVISION 1
+
 # Project Kinetic: Sovereign-Hearth (Biosphere Vault)
 
 ## System Revision 2.0 (Integrated External Waste & Hybrid Energy Node)
@@ -7,16 +7,7 @@ An open-source, self-sustaining, closed-loop food production and decentralized i
 
 ---
 
-## 1. Spatial & Structural Architecture
-
-```mermaid
-graph TD
-    A[Above Grade: 10ft] -->|30ft Concave Glass Ceiling| B[Floor 2: Ground Level]
-    B -->|Natural Light / Polycarbonate Tubes| C[Floor 1: Middle Level]
-    C -->|Isolated Structural Slab| D[Subfloor: Bottom Level]
-    D -->|Monolithic Tie-In| E[12-Inch Foundation Anchor]
-    E -->|Rests On| F[Compacted Gravel Bed]
-```
+## 1. Spatial & Structural 
 
 *   **Physical Profile:** Monolithic cylindrical, earth-sheltered subterranean layout.
 *   **Core Dimensions:** 30 ft Exterior Diameter, 30 ft Total Height.
@@ -132,22 +123,6 @@ II. Technical Specifications
 ​Woven Polymer Stress Analysis: Engineering the ETFE basalt-mesh for 100-year snow loads.
 ---
 
-## 🏛️ Commercial Inquiries & Strategic Partnerships
 
-While this repository is licensed under the **GNU GPL v3.0** to ensure the free dissemination of knowledge and technical resilience, we recognize the specific requirements of enterprise-scale aviation, logistics, and infrastructure.
-
-**Project Kinetic offers a Dual-Licensing Pathway:**
-* **Sovereign Path (GPL v3.0):** Ideal for open-source development, academic research, and community resilience.
-* **Enterprise Path (Custom):** For organizations requiring proprietary integration, specialized indemnification, or "Clean-Room" implementation without the "copyleft" requirements of the GPL.
-
-**We are currently seeking partners for:**
-1.  **Ground-Fleet Pilot Programs:** Proving "Kinetic Skin" and "Cryo-Cage" tech on non-flight logistics vehicles.
-2.  **Aviation Technical Audits:** Facilitating "Sovereign-to-Systems" handshakes for fleet modernization.
-3.  **Collaborative R&D:** Customizing the Basalt-Polymer logic for specific airframe requirements.
 
 **Direct Inquiry:** [pkinetic4@gmail.com](mailto:pkinetic4@gmail.com)
-*Subject Line: Commercial Partnership Inquiry - project Kinetic
-
-
-
-%%MAGIT_PARSER_PROTECT%%  mermaid graph TD A[Above Grade: 10ft] -->|30ft Concave Glass Ceiling| B[Floor 2: Ground Level] B -->|Natural Light / Polycarbonate Tubes| C[Floor 1: Middle Level] C -->|Isolated Structural Slab| D[Subfloor: Bottom Level] D -->|Monolithic Tie-In| E[12-Inch Foundation Anchor] E -->|Rests On| F[Compacted Gravel Bed] %%MAGIT_PARSER_PROTECT%% 
